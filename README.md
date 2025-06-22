@@ -1,4 +1,4 @@
-## Stock Forecasting Models
+# Stock Forecasting Models
 
 Welcome to the **Stock Forecasting Models** repository — an advanced system built using statistical, machine learning, and deep learning models to forecast stock prices. This project includes interactive dashboards, comprehensive evaluation metrics, and multiple forecasting approaches with customizable configurations.
 
