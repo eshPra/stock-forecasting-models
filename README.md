@@ -3,6 +3,8 @@
 > 🔬 **One-Month Internship Project** | 📈 Powered by Data | 🧠 Built with ML + DL + Python
 
 ---
+![Project Banner](./images/Stock_Price_Prediction.webp)
+---
 
 ## 🌟 Project Highlights
 
