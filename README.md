@@ -1,4 +1,4 @@
-## 📊 Stock Market Time Series Forecasting
+# 📊 Stock Market Time Series Forecasting
 
 > 🔬 **One-Month Internship Project** | 📈 Powered by Data | 🧠 Built with ML + DL + Python
 
