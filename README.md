@@ -3,7 +3,9 @@
 > 🔬 **One-Month Internship Project** | 📈 Powered by Data | 🧠 Built with ML + DL + Python
 
 ---
-![Project Banner](./Stock_Price_Prediction.webp)
+<p align="center">
+  <img src="./Stock_Price_Prediction.webp" alt="Project Banner" width="80%">
+</p>
 
 ---
 
