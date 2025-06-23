@@ -1,5 +1,5 @@
 
-# 📊 Stock Market Time Series Forecasting
+# <p align = "center"> 📊 Stock Market Time Series Forecasting </p>
 
 > 🔬 **One-Month Internship Project** | 📈 Powered by Data | 🧠 Built with ML + DL + Python
 
