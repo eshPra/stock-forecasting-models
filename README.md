@@ -1,5 +1,5 @@
 
-# <p align = "center"> 📊 Stock Market Time Series Forecasting </p>
+# <h2 align = "center"> 📊 Stock Market Time Series Forecasting </h2>
 
 > 🔬 **One-Month Internship Project** | 📈 Powered by Data | 🧠 Built with ML + DL + Python
 
